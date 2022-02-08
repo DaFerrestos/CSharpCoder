@@ -3,3 +3,12 @@ C:\Users\rofer\Documents\Dabla\Estudos - Dabla\CSharp_Coder\CursoCSharpCoder\obj
 C:\Users\rofer\Documents\Dabla\Estudos - Dabla\CSharp_Coder\CursoCSharpCoder\obj\Debug\netcoreapp3.1\CursoCSharpCoder.AssemblyInfoInputs.cache
 C:\Users\rofer\Documents\Dabla\Estudos - Dabla\CSharp_Coder\CursoCSharpCoder\obj\Debug\netcoreapp3.1\CursoCSharpCoder.AssemblyInfo.cs
 C:\Users\rofer\Documents\Dabla\Estudos - Dabla\CSharp_Coder\CursoCSharpCoder\obj\Debug\netcoreapp3.1\CursoCSharpCoder.csproj.CoreCompileInputs.cache
+C:\Users\rofer\Documents\Dabla\Estudos - Dabla\CSharp_Coder\CursoCSharpCoder\bin\Debug\netcoreapp3.1\CursoCSharpCoder.exe
+C:\Users\rofer\Documents\Dabla\Estudos - Dabla\CSharp_Coder\CursoCSharpCoder\bin\Debug\netcoreapp3.1\CursoCSharpCoder.deps.json
+C:\Users\rofer\Documents\Dabla\Estudos - Dabla\CSharp_Coder\CursoCSharpCoder\bin\Debug\netcoreapp3.1\CursoCSharpCoder.runtimeconfig.json
+C:\Users\rofer\Documents\Dabla\Estudos - Dabla\CSharp_Coder\CursoCSharpCoder\bin\Debug\netcoreapp3.1\CursoCSharpCoder.runtimeconfig.dev.json
+C:\Users\rofer\Documents\Dabla\Estudos - Dabla\CSharp_Coder\CursoCSharpCoder\bin\Debug\netcoreapp3.1\CursoCSharpCoder.dll
+C:\Users\rofer\Documents\Dabla\Estudos - Dabla\CSharp_Coder\CursoCSharpCoder\bin\Debug\netcoreapp3.1\CursoCSharpCoder.pdb
+C:\Users\rofer\Documents\Dabla\Estudos - Dabla\CSharp_Coder\CursoCSharpCoder\obj\Debug\netcoreapp3.1\CursoCSharpCoder.dll
+C:\Users\rofer\Documents\Dabla\Estudos - Dabla\CSharp_Coder\CursoCSharpCoder\obj\Debug\netcoreapp3.1\CursoCSharpCoder.pdb
+C:\Users\rofer\Documents\Dabla\Estudos - Dabla\CSharp_Coder\CursoCSharpCoder\obj\Debug\netcoreapp3.1\CursoCSharpCoder.genruntimeconfig.cache
