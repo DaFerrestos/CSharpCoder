@@ -1,0 +1,5 @@
+C:\Users\rofer\Documents\Dabla\Estudos - Dabla\CSharp_Coder\CursoCSharpCoder\obj\Debug\netcoreapp3.1\CursoCSharpCoder.csproj.AssemblyReference.cache
+C:\Users\rofer\Documents\Dabla\Estudos - Dabla\CSharp_Coder\CursoCSharpCoder\obj\Debug\netcoreapp3.1\CursoCSharpCoder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rofer\Documents\Dabla\Estudos - Dabla\CSharp_Coder\CursoCSharpCoder\obj\Debug\netcoreapp3.1\CursoCSharpCoder.AssemblyInfoInputs.cache
+C:\Users\rofer\Documents\Dabla\Estudos - Dabla\CSharp_Coder\CursoCSharpCoder\obj\Debug\netcoreapp3.1\CursoCSharpCoder.AssemblyInfo.cs
+C:\Users\rofer\Documents\Dabla\Estudos - Dabla\CSharp_Coder\CursoCSharpCoder\obj\Debug\netcoreapp3.1\CursoCSharpCoder.csproj.CoreCompileInputs.cache
