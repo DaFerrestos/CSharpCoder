@@ -11,6 +11,8 @@ namespace CursoCSharpCoder.Fundamentos
             /*
             Resultando em bifurcação de retornos, os operadores ternários são uma alternativa mais enxuta às expressões If e If else.
             Realizam comparações de expressões verdadeiras ou falsas, utilizando de operadores relacionais.
+
+            ***Atribuição condicional***
             Expressão - Operando1 - Operando2
              */
 
