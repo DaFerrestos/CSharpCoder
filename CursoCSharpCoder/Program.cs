@@ -59,6 +59,13 @@ namespace CursoCSharp {
                 {"Parâmetros com valor padrão - Classes e Métodos", ParametroPadrao.Executar},
                 //Coleções
                 {"Array - Coleções", CursoCSharpCoder.Colecoes.Array.Executar},
+                {"List - Coleções", ColecoesList.Executar},
+                {"Array List - Coleções", ColecoesArrayList.Executar},
+                {"Set - Coleções", ColecoesSet.Executar},
+                {"Queue - Coleções", ColecoesQueue.Executar},
+                {"Igualdade - Coleções", Igualdade.Executar},
+                {"Stack - Coleções", ColecaoStack.Executar},
+                {"Dictionary - Coleções", ColecoesDictionary.Executar},
 
             });
 
