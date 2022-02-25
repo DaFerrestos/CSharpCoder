@@ -5,6 +5,7 @@ using CursoCSharpCoder.Fundamentos;
 using CursoCSharpCoder.EstruturasDeControle;
 using CursoCSharpCoder.ClassesEMetodos;
 using CursoCSharpCoder.Colecoes;
+using CursoCSharpCoder.OrientacaoObjetos;
 
 
 namespace CursoCSharp {
@@ -66,6 +67,8 @@ namespace CursoCSharp {
                 {"Igualdade - Coleções", Igualdade.Executar},
                 {"Stack - Coleções", ColecaoStack.Executar},
                 {"Dictionary - Coleções", ColecoesDictionary.Executar},
+                //Orientação a Objetos
+                {"Herança - Orientação a Objetos", Heranca.Executar},
 
             });
 
