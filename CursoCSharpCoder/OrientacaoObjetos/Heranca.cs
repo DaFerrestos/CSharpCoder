@@ -39,11 +39,15 @@ namespace CursoCSharpCoder.OrientacaoObjetos
     public class Uno : Carro {
         public Uno() : base(200) { //construtor base, usado na ausência do construtor padrão definido na classe.
         
-        }
-
-
-    
+        }    
     }
+
+    public class Ferrari : Carro {
+        public Ferrari() : base(350) { 
+        
+        }
+    }
+
     class Heranca
     {
         public static void Executar() {
@@ -58,6 +62,18 @@ namespace CursoCSharpCoder.OrientacaoObjetos
             Console.WriteLine(carro1.Frear());
             Console.WriteLine(carro1.Frear());
 
+
+            //Segundo Teste:
+
+            Console.WriteLine("Ferrari...");
+            Ferrari carro2 = new Ferrari();
+
+            //testando métodos da classe:
+
+            Console.WriteLine(carro1.Acelerar());
+            Console.WriteLine(carro1.Acelerar());
+            Console.WriteLine(carro1.Frear());
+            Console.WriteLine(carro1.Frear());
         }
     }
 }
