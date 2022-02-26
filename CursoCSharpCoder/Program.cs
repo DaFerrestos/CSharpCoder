@@ -69,6 +69,7 @@ namespace CursoCSharp {
                 {"Dictionary - Coleções", ColecoesDictionary.Executar},
                 //Orientação a Objetos
                 {"Herança - Orientação a Objetos", Heranca.Executar},
+                {"Construtor This - Orientação a Objetos", ConstrutorThis.Executar},
 
             });
 
