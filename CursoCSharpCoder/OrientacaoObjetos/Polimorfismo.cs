@@ -4,34 +4,49 @@ using System.Text;
 
 namespace CursoCSharpCoder.OrientacaoObjetos
 {
-    public class Feijao {
+    public class Comida {
         public double Peso;
+
+        public Comida(double peso) {
+            Peso = peso;
+        }
+
+        public Comida() { 
+        
+        }
+    }
+    public class Feijao : Comida {
+        
     }
 
-    public class Arroz {
-        public double Peso;
+    public class Arroz : Comida {
+        
     }
 
-    public class Proteina {
-        public double Peso;    
+    public class Proteina: Comida {
+        
     }
 
     public class Pessoa {
         public double Peso;
 
-        public void Comer(Feijao feijao) {
-            Peso += feijao.Peso;
-
-        }
-        public void Comer(Arroz arroz) {
-            Peso += arroz.Peso;
-
+        public void Comer(Comida comida) {
+            Peso += comida.Peso;
         }
 
-        public void Comer(Proteina proteina) {
-            Peso += proteina.Peso;
+        //public void Comer(Feijao feijao) {
+        //    Peso += feijao.Peso;
 
-        }
+        //}
+        //public void Comer(Arroz arroz) {
+        //    Peso += arroz.Peso;
+
+        //}
+
+        //public void Comer(Proteina proteina) {
+        //    Peso += proteina.Peso;
+
+        //}
 
     }
     class Polimorfismo
