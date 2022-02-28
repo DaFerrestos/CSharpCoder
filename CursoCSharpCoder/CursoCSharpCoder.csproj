@@ -9,4 +9,8 @@
     <PackageReference Include="SolrNet.Core" Version="1.0.19" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Encapsulamento\Encapsulamento.csproj" />
+  </ItemGroup>
+
 </Project>

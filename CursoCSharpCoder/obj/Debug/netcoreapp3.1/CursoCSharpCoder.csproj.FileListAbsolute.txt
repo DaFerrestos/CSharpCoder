@@ -15,3 +15,5 @@ C:\Users\rofer\Documents\Dabla\Estudos - Dabla\CSharp_Coder\CursoCSharpCoder\obj
 C:\Users\rofer\Documents\Dabla\Estudos - Dabla\CSharp_Coder\CursoCSharpCoder\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 C:\Users\rofer\Documents\Dabla\Estudos - Dabla\CSharp_Coder\CursoCSharpCoder\bin\Debug\netcoreapp3.1\SolrNet.dll
 C:\Users\rofer\Documents\Dabla\Estudos - Dabla\CSharp_Coder\CursoCSharpCoder\obj\Debug\netcoreapp3.1\CursoCSharpCoder.csproj.CopyComplete
+C:\Users\rofer\Documents\Dabla\Estudos - Dabla\CSharp_Coder\CursoCSharpCoder\bin\Debug\netcoreapp3.1\Encapsulamento.dll
+C:\Users\rofer\Documents\Dabla\Estudos - Dabla\CSharp_Coder\CursoCSharpCoder\bin\Debug\netcoreapp3.1\Encapsulamento.pdb

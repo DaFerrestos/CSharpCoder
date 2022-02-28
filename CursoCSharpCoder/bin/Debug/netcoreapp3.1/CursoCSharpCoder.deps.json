@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v3.1": {
       "CursoCSharpCoder/1.0.0": {
         "dependencies": {
+          "Encapsulamento": "1.0.0",
           "SolrNet.Core": "1.0.19"
         },
         "runtime": {
@@ -825,6 +826,11 @@
           "System.Threading": "4.3.0",
           "System.Xml.ReaderWriter": "4.3.0"
         }
+      },
+      "Encapsulamento/1.0.0": {
+        "runtime": {
+          "Encapsulamento.dll": {}
+        }
       }
     }
   },
@@ -1428,6 +1434,11 @@
       "sha512": "sha512-lJ8AxvkX7GQxpC6GFCeBj8ThYVyQczx2+f/cWHJU8tjS7YfI6Cv6bon70jVEgs2CiFbmmM8b9j1oZVx0dSI2Ww==",
       "path": "system.xml.xmldocument/4.3.0",
       "hashPath": "system.xml.xmldocument.4.3.0.nupkg.sha512"
+    },
+    "Encapsulamento/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

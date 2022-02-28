@@ -1,0 +1,10 @@
+C:\Users\rofer\Documents\Dabla\Estudos - Dabla\CSharp_Coder\Encapsulamento\bin\Debug\netcoreapp3.1\Encapsulamento.deps.json
+C:\Users\rofer\Documents\Dabla\Estudos - Dabla\CSharp_Coder\Encapsulamento\bin\Debug\netcoreapp3.1\Encapsulamento.dll
+C:\Users\rofer\Documents\Dabla\Estudos - Dabla\CSharp_Coder\Encapsulamento\bin\Debug\netcoreapp3.1\Encapsulamento.pdb
+C:\Users\rofer\Documents\Dabla\Estudos - Dabla\CSharp_Coder\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rofer\Documents\Dabla\Estudos - Dabla\CSharp_Coder\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\rofer\Documents\Dabla\Estudos - Dabla\CSharp_Coder\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.AssemblyInfo.cs
+C:\Users\rofer\Documents\Dabla\Estudos - Dabla\CSharp_Coder\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\rofer\Documents\Dabla\Estudos - Dabla\CSharp_Coder\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.dll
+C:\Users\rofer\Documents\Dabla\Estudos - Dabla\CSharp_Coder\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.pdb
+C:\Users\rofer\Documents\Dabla\Estudos - Dabla\CSharp_Coder\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.csproj.AssemblyReference.cache
