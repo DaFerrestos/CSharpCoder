@@ -22,6 +22,13 @@ namespace CursoCSharpCoder.MetodosEFuncoes
 
             ImprimindoSoma op2 = MeuImprimirSoma;
             op2(1.1, 5);
+
+            Func<double, double, double> op3 = MinhaSoma;
+            Console.WriteLine(op3(2.5,3));
+
+            Action<double, double> op4 = MeuImprimirSoma;
+            op4(5.5, 2);
+            
         }
     }
 }
