@@ -86,6 +86,7 @@ namespace CursoCSharp {
                 {"Métodos de Extensão - Métodos e Funções", MetodosDeExtensao.Executar},
                 //Exceções
                 {"Primeira Exceção - Exceções", PrimeiraExcecao.Executar},
+                {"Exceções Personalizadas - Exceções", ExcecoesPersonalizadas.Executar},
 
 
             });
