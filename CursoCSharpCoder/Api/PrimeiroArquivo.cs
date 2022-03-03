@@ -12,7 +12,7 @@ namespace CursoCSharpCoder.Api
                 ? Environment.GetEnvironmentVariable("HOME")
                 : Environment.ExpandEnvironmentVariables("%HOMEDRIVE%%HOMEPATH%");
             return path.Replace("~", home);
-            //Execução terá êxito se sua solução estiver sendo executada na pasta padrão
+            //Execução terá êxito se sua solução estiver sendo executada na pasta padrão (Win/C:/Users...)
         }
     }
     class PrimeiroArquivo
