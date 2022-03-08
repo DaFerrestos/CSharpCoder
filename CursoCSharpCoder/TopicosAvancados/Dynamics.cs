@@ -19,6 +19,15 @@ namespace CursoCSharpCoder.TopicosAvancados
 
             meuObjeto++;
             Console.WriteLine(meuObjeto);
+
+            //uso de atribuições dinamicas:
+
+            dynamic aluno = new System.Dynamic.ExpandoObject();
+            aluno.nome = "Ana";
+            aluno.idade = 12;
+            aluno.nota = 7.5;
+
+            Console.WriteLine($"{aluno.nome}, tem {aluno.idade} e tirou {aluno.nota} de média neste semestre");
         
         }
     }
