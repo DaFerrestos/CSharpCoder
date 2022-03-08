@@ -36,6 +36,8 @@ namespace CursoCSharpCoder.TopicosAvancados
              Outros tipos de filtragens são possíveis como FirstOrDefault ou LastOrDefault, por exemplo.
             Essa abordagem de busca é muito eficaz para listas grandes que podem possuir mais de um retorno com os mesmos dados.
             -Lembrando que o valor padrão de objetos é "null"
+
+            -Também é possível realizar cálculos, médias, etc
              */
 
             var exemploSkip = alunos.Skip(1).Take(3); //Skip pula e Take pega, o parâmetro é a quantidade.
