@@ -5,7 +5,7 @@ using System.Text;
 namespace CursoCSharpCoder.TopicosAvancados
 {
     /*
-     Classe genérica
+     Classe genérica, em seu uso ela terá um tipo especificado no momento da sua instância ou quando herdada por outra classe.
      */
     public class Caixa<T> {
         T valorPrivado;
