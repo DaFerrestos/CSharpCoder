@@ -9,7 +9,7 @@
 ## Tecnologias utilizadas: 📌
 * .Net 5.0
 
-### IDE
+### IDE:
 * Visual Studio 2019
 
 ### Tópicos Abordados: 
